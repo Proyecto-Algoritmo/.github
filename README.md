@@ -1,5 +1,6 @@
+# Hi there 👋
 
-# Esta es una organuzación Universitaria
+### Esta es una organuzación Universitaria
 
 En este grupo o organización Universitaria se subiran los proyectos echos durante cruzamos la carrera de Ingeniería de Software en la universidad Estatal de Milagro
 
