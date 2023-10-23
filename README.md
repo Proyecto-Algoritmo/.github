@@ -12,6 +12,8 @@ Nosotros somos un grupo de estudiantes de la carrera de ingeniería de software 
 ## 🛠 Skills
 Javascript, HTML, CSS, Python
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Proyecto-Algoritmo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Authors
 
